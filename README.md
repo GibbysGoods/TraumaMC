@@ -3,15 +3,16 @@
 
 Curseforge Import Code- uI2wGSLv
 
-Mods direct download link- [Google Drive](https://drive.google.com/file/d/1bBjN31VZIe4I9hVMyOKQM7jrGCuClD-A/view?usp=sharing)
+Mods direct download link- [Google Drive](https://drive.google.com/file/d/1bBjN31VZIe4I9hVMyOKQM7jrGCuClD-A/view?usp=sharing)  
 
+For minor updates (4 or less mods) please download files directly from 'MinorUpdates' folder for simple installation.
 .
 
 .
 
 .
 
-## Direct Download Instructions (Keeps all map progress and settings)
+## Direct Download Update Instructions (Keeps all map progress and settings)
 Click on modpack (not play button)
 
 <img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/73e96ebd-1e48-44b5-bca0-3a370e524b3f" />  
