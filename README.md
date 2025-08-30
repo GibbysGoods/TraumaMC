@@ -1,5 +1,5 @@
 # TraumaMC
-## Updated mod folder for easyupdates to the TraumaMC server.
+## Updated mod folder for easy updates to the TraumaMC server.
 
 Curseforge Import Code- uI2wGSLv
 
