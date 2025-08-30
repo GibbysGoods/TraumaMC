@@ -1,12 +1,12 @@
 # TraumaMC
-##Updated mod folder for easyupdates to the TraumaMC server.
+## Updated mod folder for easyupdates to the TraumaMC server.
 
 Curseforge Import Code- uI2wGSLv
 Mods direct download link- <link src="https://drive.google.com/file/d/1bBjN31VZIe4I9hVMyOKQM7jrGCuClD-A/view?usp=sharing"/>
 
 
 
-##Direct Download Instructions (Keeps all map progress and settings)
+## Direct Download Instructions (Keeps all map progress and settings)
 Click on modpack (not play button)
 <img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/73e96ebd-1e48-44b5-bca0-3a370e524b3f" />
 
@@ -25,4 +25,4 @@ Delete all existing mods in folder and copy file path as shown below
 Download mods from Google Drive link at top of this page and extract to the folder path you copied
 <img width="300" height="225" alt="image" src="https://github.com/user-attachments/assets/250f2577-1222-4e52-ac49-b5df2983aae4" />
 
-##Once complete you can launch as normal through CurseForge!
+## Once complete you can launch as normal through CurseForge!
