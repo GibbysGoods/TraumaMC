@@ -20,12 +20,12 @@ Click on modpack (not play button)
 Click three dots beside play as shown
 
 <img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/af0056ce-9737-4315-babc-ff25b09002b1" />  
-
+<br/>
 
 Click Open Folder
 
 <img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/255840a2-98e9-4b0f-be75-78dbfd0c31d2" />  
-
+<br/>
 
 Open Mods Folder
 
