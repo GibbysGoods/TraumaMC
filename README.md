@@ -5,7 +5,10 @@ Curseforge Import Code- uI2wGSLv
 
 Mods direct download link- [Google Drive](https://drive.google.com/file/d/1bBjN31VZIe4I9hVMyOKQM7jrGCuClD-A/view?usp=sharing)  
 
+.
+
 For minor updates (4 or less mods) please download files directly from 'MinorUpdates' folder for simple installation.
+
 .
 
 .
