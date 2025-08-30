@@ -7,7 +7,7 @@ Mods direct download link- [Google Drive](https://drive.google.com/file/d/1bBjN3
 
 .
 
-For minor updates (4 or less mods) please download files directly from 'MinorUpdates' folder for simple installation.
+For minor updates (4 or less mods) please download files directly from 'Minor Updates' folder for simple installation.
 
 .
 
