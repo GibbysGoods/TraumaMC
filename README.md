@@ -16,37 +16,37 @@ For minor updates (4 or less mods) please download files directly from 'Minor Up
 .
 
 ## Direct Download Update Instructions (Keeps all map progress and settings)
-Click on modpack (not play button)
+1. Click on modpack (not play button)
 
 <img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/73e96ebd-1e48-44b5-bca0-3a370e524b3f" />  
 
 _______________________________________________________________
 
-Click three dots beside play as shown
+2. Click three dots beside play as shown
 
 <img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/af0056ce-9737-4315-babc-ff25b09002b1" />  
 
 _______________________________________________________________
 
-Click Open Folder
+3. Click Open Folder
 
 <img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/255840a2-98e9-4b0f-be75-78dbfd0c31d2" /> 
 
 _______________________________________________________________
 
-Open Mods Folder
+4. Open Mods Folder
 
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/e803e518-90e6-436a-9907-448d9e70ec98" />  
 
 _______________________________________________________________
 
-Delete all existing mods in folder and copy file path as shown below
+5. Delete all existing mods in folder and copy file path as shown below
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/91cdd230-c378-4175-afe4-b5c24208041e" />  
 
 _______________________________________________________________
 
-Download mods from Google Drive link at top of this page and extract to the folder path you copied
+6. Download mods from Google Drive link at top of this page and extract to the folder path you copied
 
 <img width="300" height="225" alt="image" src="https://github.com/user-attachments/assets/250f2577-1222-4e52-ac49-b5df2983aae4" /> 
 
