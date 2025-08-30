@@ -15,27 +15,27 @@ Mods direct download link- [Google Drive](https://drive.google.com/file/d/1bBjN3
 Click on modpack (not play button)
 
 <img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/73e96ebd-1e48-44b5-bca0-3a370e524b3f" />  
-
+_______________________________________________________________
 
 Click three dots beside play as shown
 
 <img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/af0056ce-9737-4315-babc-ff25b09002b1" />  
-<br/>
+_______________________________________________________________
 
 Click Open Folder
 
 <img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/255840a2-98e9-4b0f-be75-78dbfd0c31d2" />  
-<br/>
+_______________________________________________________________
 
 Open Mods Folder
 
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/e803e518-90e6-436a-9907-448d9e70ec98" />  
-
+_______________________________________________________________
 
 Delete all existing mods in folder and copy file path as shown below
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/91cdd230-c378-4175-afe4-b5c24208041e" />  
-
+_______________________________________________________________
 
 Download mods from Google Drive link at top of this page and extract to the folder path you copied
 
