@@ -25,12 +25,26 @@ For minor updates (4 or less mods) please download files directly from 'Minor Up
 ## Transfer JourneyMap Data and Waypoints (for existing players)
 
 <img width="1497" height="999" alt="image" src="https://github.com/user-attachments/assets/e65feb56-2fef-49a8-9fb2-759b9949f846" />
+
+
 <img width="1493" height="1001" alt="image" src="https://github.com/user-attachments/assets/6a172bbd-358a-4afd-ba3c-cc22b1bf983d" />
+
+
 <img width="1916" height="1028" alt="image" src="https://github.com/user-attachments/assets/2b9e523a-439c-482d-a192-817f69d63c81" />
+
+
 <img width="1911" height="1028" alt="image" src="https://github.com/user-attachments/assets/443402bd-fde7-43ef-8b93-a8c45245bef8" />
+
+
 <img width="1911" height="1027" alt="image" src="https://github.com/user-attachments/assets/3d561c8d-e1a3-405c-af28-8d1e44a58fba" />
+
+
 <img width="1906" height="1019" alt="image" src="https://github.com/user-attachments/assets/38d56aec-1f1c-4d6b-a37f-e1eddcf451a4" />
-<img width="806" height="962" alt="image" src="https://github.com/user-attachments/assets/eaaef218-df27-4abb-b4b2-9cb00d1ba901" />
+
+
+<img width="799" height="959" alt="image" src="https://github.com/user-attachments/assets/86632b93-0b97-4bca-a2f3-e79100ae6012" />
+
+
 <img width="938" height="990" alt="image" src="https://github.com/user-attachments/assets/59f7d28c-d825-4d53-8a99-2153305db2b2" />
 
 
