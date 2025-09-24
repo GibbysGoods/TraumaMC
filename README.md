@@ -1,9 +1,9 @@
 # TraumaMC
 ## Updated mod folder for easy updates to the TraumaMC server.
 
-Curseforge Import Code- DgcWJMBB
-
-Mods direct download link- [Google Drive](https://drive.google.com/file/d/1bBjN31VZIe4I9hVMyOKQM7jrGCuClD-A/view?usp=sharing)  
+Curseforge Import Code- PnwZsyv2
+(Code expires every 7 days please contact me on Discord to get new code, username: tantro.)
+  
 
 .
 
