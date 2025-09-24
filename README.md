@@ -15,40 +15,23 @@ For minor updates (4 or less mods) please download files directly from 'Minor Up
 
 .
 
-## Direct Download Update Instructions (Keeps all map progress and settings)
-1. Click on modpack (not play button)
+## Modpack Update Instructions (Curseforge)
 
-<img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/73e96ebd-1e48-44b5-bca0-3a370e524b3f" />  
-
-_______________________________________________________________
-
-2. Click three dots beside play as shown
-
-<img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/af0056ce-9737-4315-babc-ff25b09002b1" />  
-
-_______________________________________________________________
-
-3. Click Open Folder
-
-<img width="540" height="400" alt="image" src="https://github.com/user-attachments/assets/255840a2-98e9-4b0f-be75-78dbfd0c31d2" /> 
-
-_______________________________________________________________
-
-4. Open Mods Folder
-
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/e803e518-90e6-436a-9907-448d9e70ec98" />  
-
-_______________________________________________________________
-
-5. Delete all existing mods in folder and copy file path as shown below
-
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/91cdd230-c378-4175-afe4-b5c24208041e" />  
-
-_______________________________________________________________
-
-6. Download mods from Google Drive link at top of this page and extract to the folder path you copied
-
-<img width="300" height="225" alt="image" src="https://github.com/user-attachments/assets/250f2577-1222-4e52-ac49-b5df2983aae4" /> 
+<img width="1491" height="1025" alt="image" src="https://github.com/user-attachments/assets/1812b415-ec19-4cd3-b099-69afe1f3617e" />
+<img width="995" height="741" alt="image" src="https://github.com/user-attachments/assets/c057f84f-7bf7-4728-b6fe-08f067e7bce5" />
+<img width="1496" height="1000" alt="image" src="https://github.com/user-attachments/assets/21fcd230-ef5a-4c78-a19f-70bb7c86afa1" />
 
 
-## Once complete you can launch as normal through CurseForge!
+## Transfer JourneyMap Data and Waypoints (for existing players)
+
+<img width="1497" height="999" alt="image" src="https://github.com/user-attachments/assets/e65feb56-2fef-49a8-9fb2-759b9949f846" />
+<img width="1493" height="1001" alt="image" src="https://github.com/user-attachments/assets/6a172bbd-358a-4afd-ba3c-cc22b1bf983d" />
+<img width="1916" height="1028" alt="image" src="https://github.com/user-attachments/assets/2b9e523a-439c-482d-a192-817f69d63c81" />
+<img width="1911" height="1028" alt="image" src="https://github.com/user-attachments/assets/443402bd-fde7-43ef-8b93-a8c45245bef8" />
+<img width="1911" height="1027" alt="image" src="https://github.com/user-attachments/assets/3d561c8d-e1a3-405c-af28-8d1e44a58fba" />
+<img width="1915" height="1026" alt="image" src="https://github.com/user-attachments/assets/943fb4be-5532-4336-b76c-2be6497ccda9" />
+<img width="806" height="962" alt="image" src="https://github.com/user-attachments/assets/eaaef218-df27-4abb-b4b2-9cb00d1ba901" />
+<img width="938" height="990" alt="image" src="https://github.com/user-attachments/assets/59f7d28c-d825-4d53-8a99-2153305db2b2" />
+
+
+
