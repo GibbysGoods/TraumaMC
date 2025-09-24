@@ -17,7 +17,7 @@ For minor updates (4 or less mods) please download files directly from 'Minor Up
 
 .
 
-## Modpack Update Instructions (Curseforge)
+## Modpack Update/Install Instructions (Curseforge)
 
 <img width="1491" height="1025" alt="image" src="https://github.com/user-attachments/assets/1812b415-ec19-4cd3-b099-69afe1f3617e" />
 <img width="995" height="741" alt="image" src="https://github.com/user-attachments/assets/c057f84f-7bf7-4728-b6fe-08f067e7bce5" />
