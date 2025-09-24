@@ -47,5 +47,7 @@ For minor updates (4 or less mods) please download files directly from 'Minor Up
 
 <img width="938" height="990" alt="image" src="https://github.com/user-attachments/assets/59f7d28c-d825-4d53-8a99-2153305db2b2" />
 
+### Once that is done your journey map should be the same as before you can just launch as normal!
+
 
 
