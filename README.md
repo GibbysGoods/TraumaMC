@@ -29,7 +29,7 @@ For minor updates (4 or less mods) please download files directly from 'Minor Up
 <img width="1916" height="1028" alt="image" src="https://github.com/user-attachments/assets/2b9e523a-439c-482d-a192-817f69d63c81" />
 <img width="1911" height="1028" alt="image" src="https://github.com/user-attachments/assets/443402bd-fde7-43ef-8b93-a8c45245bef8" />
 <img width="1911" height="1027" alt="image" src="https://github.com/user-attachments/assets/3d561c8d-e1a3-405c-af28-8d1e44a58fba" />
-<img width="1915" height="1026" alt="image" src="https://github.com/user-attachments/assets/943fb4be-5532-4336-b76c-2be6497ccda9" />
+<img width="1906" height="1019" alt="image" src="https://github.com/user-attachments/assets/38d56aec-1f1c-4d6b-a37f-e1eddcf451a4" />
 <img width="806" height="962" alt="image" src="https://github.com/user-attachments/assets/eaaef218-df27-4abb-b4b2-9cb00d1ba901" />
 <img width="938" height="990" alt="image" src="https://github.com/user-attachments/assets/59f7d28c-d825-4d53-8a99-2153305db2b2" />
 
