@@ -1,7 +1,7 @@
 # TraumaMC
 ## Updated mod folder for easy updates to the TraumaMC server.
 
-Curseforge Import Code- PnwZsyv2
+Curseforge Import Code- WRCzWbIx
 
 
 (Code expires every 7 days please contact me on Discord to get new code, username: tantro.)
